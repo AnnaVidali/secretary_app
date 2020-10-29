@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ergasia</string>
+    <string name="submitbutton">Submit!</string>
+    <string name="searchbutton">Search by name!</string>
+    <string name="idview">ID</string>
+    <string name="fnameview">FNAME</string>
+    <string name="lnameview">LNAME</string>
+    <string name="ageview">AGE</string>
+</resources>
